@@ -2,7 +2,7 @@
   "name": "anchorme.js",
   "version": "0.6.0",
   "description": "A library to convert URLs to a clickable HTML anchor elements",
-  "main": "./src/Canchorme.js",
+  "main": "./src/anchorme.js",
   "scripts": {
     "test": "anchorme.js(\"www.google.com\",options\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b["
   },
